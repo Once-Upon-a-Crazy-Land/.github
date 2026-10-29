@@ -1,11 +1,50 @@
-# Once Upon a Crazy Land
+# Ken-Janek Lember
 
+### Junior Software Developer Student
 
-Once Upon a Crazy Land is the personal project space and development portfolio of Ken-Janek, a software development student.
+I am a second-year Junior Software Developer student at Viljandi Vocational Training Centre, seeking an internship where I can apply my knowledge and gain practical experience in software development. My studies cover programming, web development, databases and software testing, and I am looking to develop these skills further through real projects.
 
+**Once Upon a Crazy Land** is my personal project space and portfolio, bringing together software, web and game development with my interests in art and design.
 
-This portfolio brings together my work in software development, web development and game development, alongside projects that combine programming with art and design.
+## Technical Skills
 
+| Area | Skills |
+| --- | --- |
+| Programming | JavaScript, Java |
+| Web development | HTML, CSS |
+| Databases | SQL, MariaDB |
+| Development tools | Git, GitHub, Docker, command line |
+| Testing | Software testing fundamentals |
+| AI-assisted development | Using AI tools to support programming and software development |
 
-Through these projects, I develop practical experience in building applications, solving technical problems and using version control. Individual repositories document each project's purpose, technologies and development progress.
+## Education
 
+**2025 - Present | Viljandi Vocational Training Centre**  
+Junior Software Developer, TAK25 - second year
+
+**2023 - 2024 | Viljandi Vocational Training Centre**  
+Junior IT Systems Specialist - studies not completed
+
+**2011 - 2023 | Põltsamaa Ühisgümnaasium**  
+Secondary education
+
+## Selected Projects
+
+- **[Color Theory Wheel & Image Hue Editor](https://github.com/Once-Upon-a-Crazy-Land/color-theory-wheel-image-hue-editor)** - An interactive color theory wheel with color harmony modes and an image hue editor.
+- **[The All-Seeing One](https://github.com/Once-Upon-a-Crazy-Land/the-all-seeing-one)** - A TypeScript Discord bot for Crazyland community management.
+- **[Clan Requirements Checker](https://github.com/Once-Upon-a-Crazy-Land/clan-requirements-checker)** - A JavaScript Discord bot for checking whether members meet their clan requirements.
+
+## Relevant Coursework
+
+- IT fundamentals and programming fundamentals
+- Agile software development methodologies
+- Database systems fundamentals
+- Web application development fundamentals
+- Software systems testing
+- Distributed applications fundamentals
+- Cybersecurity
+
+## Languages
+
+- **Estonian:** C2
+- **English:** B2
