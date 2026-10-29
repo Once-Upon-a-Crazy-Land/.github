@@ -1,5 +1,3 @@
-# Ken-Janek Lember
-
 ### Junior Software Developer Student
 
 I am a second-year Junior Software Developer student at Viljandi Vocational Training Centre, seeking an internship where I can apply my knowledge and gain practical experience in software development. My studies cover programming, web development, databases and software testing, and I am looking to develop these skills further through real projects.
