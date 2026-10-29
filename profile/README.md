@@ -6,29 +6,14 @@ I am a second-year Junior Software Developer student at Viljandi Vocational Trai
 
 ## Technical Skills
 
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
-
-### Databases
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Command Line](https://img.shields.io/badge/Command_Line-4D4D4D?style=flat-square&logo=gnubash&logoColor=white)
-
-### Testing & AI-assisted Development
-
-- Software testing fundamentals
-- Using AI tools to support programming and software development
+| Area | Skills |
+| --- | --- |
+| Programming | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) |
+| Web development | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) |
+| Databases | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
+| Development tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Command Line](https://img.shields.io/badge/Command_Line-4D4D4D?style=flat-square&logo=gnubash&logoColor=white) |
+| Testing | Software testing fundamentals |
+| AI-assisted development | Using AI tools to support programming and software development |
 
 ## Education
 
