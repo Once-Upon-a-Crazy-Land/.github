@@ -19,14 +19,11 @@ I am a second-year Junior Software Developer student at Viljandi Vocational Trai
 
 ## Education
 
-| **2025 - Present | Viljandi Vocational Training Centre** |
-| Junior Software Developer, TAK25 - second year |
-| --- |
-| **2023 - 2024 | Viljandi Vocational Training Centre** |
-| Junior IT Systems Specialist - studies not completed |
-| --- |
-| **2011 - 2023 | Põltsamaa Ühisgümnaasium** |
-| Secondary education |
+| Periood | Asutus | Haridus / programm |
+| --- | --- | --- |
+| 2025 - Present | Viljandi Vocational Training Centre | Junior Software Developer, TAK25 - second year |
+| 2023 - 2024 | Viljandi Vocational Training Centre | Junior IT Systems Specialist - studies not completed |
+| 2011 - 2023 | Põltsamaa Ühisgümnaasium | Secondary education |
 
 ## Selected Projects
 
