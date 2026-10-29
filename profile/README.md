@@ -25,12 +25,6 @@ I am a second-year Junior Software Developer student at Viljandi Vocational Trai
 | 2023 - 2024 | Viljandi Vocational Training Centre | Junior IT Systems Specialist - studies not completed |
 | 2011 - 2023 | Põltsamaa Ühisgümnaasium | Secondary education |
 
-## Selected Projects
-
-- **[Color Theory Wheel & Image Hue Editor](https://github.com/Once-Upon-a-Crazy-Land/color-theory-wheel-image-hue-editor)** - An interactive color theory wheel with color harmony modes and an image hue editor.
-- **[The All-Seeing One](https://github.com/Once-Upon-a-Crazy-Land/the-all-seeing-one)** - A TypeScript Discord bot for Crazyland community management.
-- **[Clan Requirements Checker](https://github.com/Once-Upon-a-Crazy-Land/clan-requirements-checker)** - A JavaScript Discord bot for checking whether members meet their clan requirements.
-
 ## Relevant Coursework
 
 - IT fundamentals and programming fundamentals
@@ -40,8 +34,3 @@ I am a second-year Junior Software Developer student at Viljandi Vocational Trai
 - Software systems testing
 - Distributed applications fundamentals
 - Cybersecurity
-
-## Languages
-
-- **Estonian:** C2
-- **English:** B2
