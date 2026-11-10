@@ -1,6 +1,6 @@
 ### Junior Software Developer Student
 
-I am a second-year Junior Software Developer student at Viljandi Vocational Training Centre, seeking an internship where I can apply my knowledge and gain practical experience in software development. My studies cover programming, web development, databases and software testing, and I am looking to develop these skills further through real projects.
+I am a second-year Junior Software Developer student at Viljandi Vocational Training Centre, seeking an internship where I can apply my knowledge and gain practical experience in software development. I have been involved with programming since 2020, and my studies have allowed me to build on that experience. My studies cover programming, web development, databases and software testing, and I am looking to develop these skills further through real projects.
 
 **Once Upon a Crazy Land** is my personal project space and portfolio, bringing together software, web and game development with my interests in art and design.
 
